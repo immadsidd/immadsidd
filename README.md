@@ -6,15 +6,9 @@
 
 </div>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=immadsidd&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
 - 👀 I’m interested in web development and Data science
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/immadsidd?tab=repositories)**
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
@@ -22,6 +16,7 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 - 👀 I'm currently learning React.
 
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
