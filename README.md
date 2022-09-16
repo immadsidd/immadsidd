@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @immadsidd
 - 👀 I’m interested in web development and Data science
-- 🌱 I’m currently learning html, css, javascript.
+- 🌱 Skills: html, css, javascript.
+- 👀 I'm currently learning React.
 
 <!---
 immadsidd/immadsidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
