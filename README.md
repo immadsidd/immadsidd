@@ -82,7 +82,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/immad-s-35b962184/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
-&nbsp;<a href="immadsiddiqui52@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="sarath2375@gmail.com" width="40" /></a>
+&nbsp;<a href="mailto:immadsiddiqui52@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="sarath2375@gmail.com" width="40" /></a>
  
   <br><br>
    <p align="center">
