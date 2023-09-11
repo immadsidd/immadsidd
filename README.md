@@ -68,7 +68,7 @@
 
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=immadsidd&theme=onedark&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immadsidd&layout=compact&langs_count=8&theme=onedark"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immadsidd&layout=compact&langs_count=10&theme=onedark"/460/300"></p>
 
 <p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=immadsidd&theme=onedark&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
